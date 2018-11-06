@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
 title = "Skills"
 subtitle = ""
@@ -22,21 +22,33 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java/Java EE"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "database"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "SQL"
+  description = ""
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git/GitHub"
+  description = ""  
+  
+[[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MongoDB"
+  description = ""
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MongoDB"
+  description = ""
 
 +++

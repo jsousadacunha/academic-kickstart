@@ -63,7 +63,7 @@ date_format = "January 2006"
   """
   
   [[experience]]
-  title = "Computer analyst and programmer"
+  title = "Software analyst and programmer"
   company = "Hospital San Francisco"
   company_url = "https://www.hmsanfrancisco.es/"
   location = "León, Spain"
@@ -79,7 +79,7 @@ date_format = "January 2006"
   """
   
   [[experience]]
-  title = "Computer analyst and programmer"
+  title = "Software analyst and programmer"
   company = "INCIBE"
   company_url = "https://www.incibe.es/en"
   location = "León, Spain"

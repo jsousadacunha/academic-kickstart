@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Software architecture",
     "Programming best practices",
-    "Software development"
+    "Software development",
+    "Artificial Intelligence & Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,7 +34,7 @@ weight = 5
 Passionate computer engineer with more than twelve years' experience.
 My international career provides me a unique perspective of the profession and that brought me the opportunity to develop my skills in various sectors such as banking, health, industry, public and energy.  
 
-Also, I'm a fanatic of running and trail-running. I find always new challenges and I try to surpass myself.
+Also, I'm a fanatic of running and trail-running. I search always new challenges and I try to surpass myself.
 
 
 

@@ -56,10 +56,10 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Davidson Consulting", url = "https://www.davidson.fr/" } ]
+  organizations = [ { name = "Davidson Consulting", url = "https://www.davidson.fr/" }, {name = "Lyon, France"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "mr-robot_400x400.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "photo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "jm.sousadacunha@gmail.com"

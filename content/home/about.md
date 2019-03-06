@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-Passionate computer engineer with more than twelve years' experience.
+Passionate computer engineer with more than 12 years' experience. Over the last 5 years I'm working as Lead Software Engineer for large backend Java/Java EE projects.      
 My international career provides me a unique perspective of the profession and that brought me the opportunity to develop my skills in various sectors such as banking, health, industry, public and energy.  
 
 Also, I'm a fanatic of running and trail-running. I search always new challenges and I try to surpass myself.
